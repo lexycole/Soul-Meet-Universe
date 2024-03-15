@@ -20,17 +20,7 @@ Please wait while the `.gif` files are loading...
 
 ## Screens
 
-# 👻 Features
-- Supports both `Android` & `iPad` devices
-- Multiple, animated, selectable characters
-- Minimum deployment target is `android sdk 31`
-- `Swift 5.0`
-- Uses `Flutter` for user interface widgets: `Playing`, `Getx (Dart)`, `for` states
-- Supports multiple `pipe` types
-
-
 # 🗺 Features
-- [x] New playable characters
 
 - [ ]  Register Screen
 - [ ] Reset Password Screen
