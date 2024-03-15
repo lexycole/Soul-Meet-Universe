@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727571067852",
+    "project_id": "soul-meet-universe",
+    "storage_bucket": "soul-meet-universe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727571067852:android:d878c2f77ada9e9298a369",
+        "android_client_info": {
+          "package_name": "com.example.soul_meet_num"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-SiK1Eb9-ZdF7rR9Km1HcTCVmkhnKG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
