@@ -1,4 +1,4 @@
-## ☯ Soul Meet Universe
+# ☯ Soul Meet Universe
 # 𓆩♡𓆪 Complete Numerology Chart Calculator & Readings
 
 [![Language](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
@@ -28,12 +28,6 @@ Please wait while the `.gif` files are loading...
 - Uses `Flutter` for user interface widgets: `Playing`, `Getx (Dart)`, `for` states
 - Supports multiple `pipe` types
 
-# 📝 Changelog 
-
-## v 1.0
-- `Infinite` side-scrolling game 
-- `Haptic feedback` on supported devides
-
 
 # 🗺 Features
 - [x] New playable characters 
@@ -50,4 +44,4 @@ Please wait while the `.gif` files are loading...
 [Akinro Olawale](https://github.com/lexycole)
 
 # 🔖 Licence
-The project is available under the [BSD 3-Clause "New" or "Revised" License](https://github.com/jVirus/ios-spritekit-flappy-flying-bird/blob/master/LICENSE).
+The project is available under the [MIT License](https://github.com/jVirus/ios-spritekit-flappy-flying-bird/blob/master/LICENSE).
