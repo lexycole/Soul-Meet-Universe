@@ -30,15 +30,28 @@ Please wait while the `.gif` files are loading...
 
 
 # 🗺 Features
-- [x] New playable characters 
-- [ ] Unique visual effects for playable characters
-- [ ] Achievement system: will be used to unlock new playable characters and visual effects
-- [ ] Addition of custom effects when player starts new run and dies
-- [ ] Custom scene transitions
-- [ ] Game bonuses: another good example of `GameplayKit`usage
-- [x] New pipe types
-- [ ] Level opening animation
-- [x] Setting for game `Difficulty` 
+- [x] New playable characters
+
+- [ ]  Register Screen
+- [ ] Reset Password Screen
+- [ ] Forget Password Screen
+- [ ] Splash Screen
+- [ ]  Onboarding Screen
+- [ ]  Select Language Screen
+- [ ]  Are you here for screen
+- [ ]  Choose Your Birthday Screen
+- [ ]  Profile detail Screen
+- [ ]  Gender Screen
+- [ ]  Home Screen
+- [ ]  Chart Calculator, Couple Match, Twin Flame Screen
+- [ ]  Twin Flame Match Profile Screen
+- [ ]  Matches Screen
+- [ ]  Messages Screen
+- [ ]  Settings Screen
+- [x] Payment Screen (Paystack)
+- [ ] Rate App Screen
+- [ ] Feedback Screen
+
 
 # 👨‍💻 Author 
 [Akinro Olawale](https://github.com/lexycole)
