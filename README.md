@@ -22,25 +22,25 @@ Please wait while the `.gif` files are loading...
 
 # 🗺 Features
 
-- [ ]  Register Screen
-- [ ] Reset Password Screen
-- [ ] Forget Password Screen
-- [ ] Splash Screen
-- [ ]  Onboarding Screen
-- [ ]  Select Language Screen
-- [ ]  Are you here for screen
-- [ ]  Choose Your Birthday Screen
-- [ ]  Profile detail Screen
-- [ ]  Gender Screen
-- [ ]  Home Screen
-- [ ]  Chart Calculator, Couple Match, Twin Flame Screen
-- [ ]  Twin Flame Match Profile Screen
-- [ ]  Matches Screen
-- [ ]  Messages Screen
-- [ ]  Settings Screen
+- [x]  Register Screen
+- [x] Reset Password Screen
+- [x] Forget Password Screen
+- [x] Splash Screen
+- [x]  Onboarding Screen
+- [x]  Select Language Screen
+- [x]  Are you here for Screen
+- [x]  Choose Your Birthday Screen
+- [x]  Profile detail Screen
+- [x]  Gender Screen
+- [x]  Home Screen
+- [x]  Chart Calculator, Couple Match, Twin Flame Screen
+- [x]  Twin Flame Match Profile Screen
+- [x]  Matches Screen
+- [x]  Messages Screen
+- [x]  Settings Screen
 - [x] Payment Screen (Paystack)
-- [ ] Rate App Screen
-- [ ] Feedback Screen
+- [x] Rate App Screen
+- [x] Feedback Screen
 
 
 # 👨‍💻 Author 
