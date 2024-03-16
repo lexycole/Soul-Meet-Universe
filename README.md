@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 # ✍️ About 
-🐦 `Soul-Meet-Universe` is an `Android/Mobile` application written using the latest version of `Dart` programming language and `Flutter`. The mobile app offers a comprehensive Numerology Chart Calculator and Readings service, providing users with insights into their soul blueprint. With features like Numerology Love𓆩♡𓆪 & Marriage Compatibility Calculator, users can explore relationship dynamics. The app allows input of personal details such as names and birthdates for accurate calculations. Whether discovering soul☯ connections or compatibility with partners, our app offers a user-friendly interface and precise results. Users can conveniently access a range of numerology tools, including Twin🌀 Flame Calculator, enhancing their spiritual journey and self-discovery. The App Algorithm allows users going through a numerology process to ensure users are never match with bots. The App also matches you with people having a large array of similar interests.
+🐦 `Soul-Meet-Universe` is an `Android/Mobile` application written using the latest version of `Dart` programming language, `Flutter`, and Power Sync SDK. The mobile app offers a comprehensive Numerology Chart Calculator and Readings service, providing users with insights into their soul blueprint. With features like Numerology Love𓆩♡𓆪 & Marriage Compatibility Calculator, users can explore relationship dynamics. The app allows input of personal details such as names and birthdates for accurate calculations. Whether discovering soul☯ connections or compatibility with partners, our app offers a user-friendly interface and precise results. Users can conveniently access a range of numerology tools, including Twin🌀 Flame Calculator, enhancing their spiritual journey and self-discovery. The App Algorithm allows users going through a numerology process to ensure users are never match with bots. The App also matches you with people having a large array of similar interests.
 
 # 📺 Demo 
 
@@ -22,23 +22,23 @@ Please wait while the `.gif` files are loading...
 
 # 🗺 Features
 
-- [x]  Register Screen
-- [x] Reset Password Screen
-- [x] Forget Password Screen
-- [x] Splash Screen
+- [x]  Register/Login Screen with Power Sync SDK
+- [x]  Reset Password Screen with Power Sync SDK
+- [x]  Forget Password Screen with Power Sync SDK
+- [x]  Splash Screen
 - [x]  Onboarding Screen
-- [x]  Select Language Screen
+- [x]  Select Language Screen with 
 - [x]  Are you here for Screen
-- [x]  Choose Your Birthday Screen
-- [x]  Profile detail Screen
+- [x]  Choose Your Birthday Screen People API 
+- [x]  Profile detail Screen with pexels API
 - [x]  Gender Screen
 - [x]  Home Screen
-- [x]  Chart Calculator, Couple Match, Twin Flame Screen
+- [x]  Chart Calculator, Couple Match, Twin Flame Screen (Power Sync SDK)
 - [x]  Twin Flame Match Profile Screen
 - [x]  Matches Screen
-- [x]  Messages Screen
+- [x]  Messages Screen with power sync offline capability
 - [x]  Settings Screen
-- [x] Payment Screen (Paystack)
+- [x] Payment Screen with Paystack Api
 - [x] Rate App Screen
 - [x] Feedback Screen
 
