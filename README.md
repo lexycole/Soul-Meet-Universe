@@ -47,4 +47,4 @@ Please wait while the `.gif` files are loading...
 [Akinro Olawale](https://github.com/lexycole)
 
 # 🔖 Licence
-The project is available under the [MIT License](https://github.com/jVirus/ios-spritekit-flappy-flying-bird/blob/master/LICENSE).
+The project is available under the [MIT License](https://github.com/lexycole/Soul-Meet-Universe/blob/main/LICENSE).
